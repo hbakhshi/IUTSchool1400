@@ -1,1 +1,36 @@
-[![RUN IT](https://img.shields.io/badge/launch-CERN:IUT:Server-E66581.svg?logo=data:image/png;base64,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)](http://185.239.105.200/hub/user-redirect/git-pull?repo=https://gitlab.cern.ch/iut/school1400&branch=master&subPath=Part1.ipynb&app=lab)
+<div dir="rtl">
+<h1>نصب و راه&zwnj;اندازی (پیشرفته)</h1>
+<p>این تمرین را به راحتی می&zwnj;توانید رو کامپیوتر خود اجرا کنید. به شرطی که سیستم عامل لینوکس را روی دستگاه خود داشته باشید.</p>
+<p>در قدم اول باید دستورالعمل زیر را انجام دهید تا برنامه های لازم را برای خود نصب نمائید. بعد از آن می&zwnj;توانید تمرین های روزهای دیگر را به راحتی انجام دهید.</p>
+<h2>برنامه های مورد نیاز</h2>
+<ol>
+<li>
+<h3>رووت&zwnj; (ROOT)</h3>
+<p>این یکی از اصلی ترین برنامه هایی است که توسط سرن توسعه پیدا کرده و در تمام آزمایش&zwnj;های آن کاربرد دارد. اگر یکی از نسخه های به&zwnj;روز سیستم عاملهای<code> <a href="https://snapcraft.io/install/root-framework/ubuntu">Ubuntu</a>, <a href="https://snapcraft.io/install/root-framework/mint">Mint</a>, <a href="https://snapcraft.io/install/root-framework/debian">Debian</a>, <a href="https://snapcraft.io/install/root-framework/fedora">Fedora</a>, <a href="https://snapcraft.io/install/root-framework/opensuse">OpenSUSE</a>, <a href="https://snapcraft.io/install/root-framework/centos">CentOS</a>, <a href="https://snapcraft.io/install/root-framework/arch">Arch</a></code> را داشته باشید می&zwnj;توانید از دستور زیر برای نصب این برنامه استفاده کنید</p>
+<p style="text-align: left;"><code>sudo snap install root-framework</code></p>
+<p>با این دستور (و وارد کردن کلمه ی عبور خواسته شده) برنامه&zwnj;ی رووت دانلود شده و در دستگاه شما نصب می&zwnj;گردد</p>
+<p>برای تست کردن اینکه این برنامه به خوبی نصب شده، کافی است دستور <code>root</code> را در ترمینال اجرا کنید. باید محیط کاری این برنامه باز شده باشد. با زدن دستور <code>.q</code> میتوان از این محیط خارج شد.</p>
+</li>
+<li>
+<h3>پایتون</h3>
+<p>اگر چه برنامه ی رووت به زبان <span style="text-align: left;"> c++ </span> نوشته شده، اما به راحتی می&zwnj;توان از طریق پایتون به کتابخانه های آن دسترسی پیدا کرد. برای این کار لازم است پایتون روی دستگاه شما نصب باشد. برای نصب پایتون اگر از <code> <a href="https://snapcraft.io/install/root-framework/ubuntu">Ubuntu</a></code>&nbsp; استفاده می&zwnj;کنید از دستور زیر استفاده کنید:</p>
+<p style="text-align: left;"><code>
+      sudo apt install python
+    </code></p>
+</li>
+  <li>
+    <h3>
+      ژوپیتر
+    </h3>
+    <p style="text-align: left;">
+      <code>
+        sudo pip3 install --upgrade pip
+      </code>
+      <br/>
+      <code>
+        sudo pip3 install jupyter
+      </code>
+    </p>
+  </li>
+</ol>
+</div>
